@@ -1,0 +1,663 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\views\\partials\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\views\\partials\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\views\\partials\\mainnavigation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\views\\partials\\mainnavigation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\views\\partials\\blockgrid\\components\\sociallinks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\views\\partials\\blockgrid\\components\\sociallinks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\views\\partials\\blockgrid\\components\\calltoaction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\views\\partials\\blockgrid\\components\\calltoaction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\views\\partials\\blockgrid\\components\\imagelinks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\views\\partials\\blockgrid\\components\\imagelinks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\views\\partials\\blockgrid\\components\\footercontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\views\\partials\\blockgrid\\components\\footercontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\views\\partials\\blockgrid\\components\\imagewithcaption.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\views\\partials\\blockgrid\\components\\imagewithcaption.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\views\\partials\\blockgrid\\components\\imagelink.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\views\\partials\\blockgrid\\components\\imagelink.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\views\\partials\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\views\\partials\\header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\views\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\views\\main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\views\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\views\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\views\\partials\\metadata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\views\\partials\\metadata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\views\\partials\\blockgrid\\components\\title.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\views\\partials\\blockgrid\\components\\title.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\views\\partials\\blockgrid\\components\\richtext.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\views\\partials\\blockgrid\\components\\richtext.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\views\\contentpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\views\\contentpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\views\\searchpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\views\\searchpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\views\\partials\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\views\\partials\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\views\\partials\\modals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\views\\partials\\modals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\views\\partials\\portfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\views\\partials\\portfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\views\\shared\\components\\pagination\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\views\\shared\\components\\pagination\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\controllers\\render\\searchpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\controllers\\render\\searchpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\configuration\\freelancerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\configuration\\freelancerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\helpers\\paginationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\helpers\\paginationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\components\\paginationviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\components\\paginationviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\components\\searchformviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\components\\searchformviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\views\\shared\\components\\searchform\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\views\\shared\\components\\searchform\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\models\\search\\searchrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\models\\search\\searchrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\extensions\\publishedcontentextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\extensions\\publishedcontentextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\search\\indexcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\search\\indexcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\composers\\indexcomposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\composers\\indexcomposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\composers\\registernotificationscomposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\composers\\registernotificationscomposer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\notifications\\contentsavingnotificationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\notifications\\contentsavingnotificationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|c:\\users\\jonte\\github\\umbraco13\\freelancer\\components\\searchresultsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D356C3A-EFC5-41D3-A59E-15A1027D8B52}|Freelancer\\Freelancer.csproj|solutionrelative:freelancer\\components\\searchresultsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "Freelancer\\wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "Freelancer\\wwwroot\\css\\styles.css",
+              "ViewState": "AgIAAMgKAAAAAAAAAAAAAOwKAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-12T16:20:44.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "imageWithCaption.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Partials\\blockgrid\\Components\\imageWithCaption.cshtml",
+              "RelativeDocumentMoniker": "Freelancer\\Views\\Partials\\blockgrid\\Components\\imageWithCaption.cshtml",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Partials\\blockgrid\\Components\\imageWithCaption.cshtml",
+              "RelativeToolTip": "Freelancer\\Views\\Partials\\blockgrid\\Components\\imageWithCaption.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T19:06:27.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "footerContent.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Partials\\blockgrid\\Components\\footerContent.cshtml",
+              "RelativeDocumentMoniker": "Freelancer\\Views\\Partials\\blockgrid\\Components\\footerContent.cshtml",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Partials\\blockgrid\\Components\\footerContent.cshtml",
+              "RelativeToolTip": "Freelancer\\Views\\Partials\\blockgrid\\Components\\footerContent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T19:06:17.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mainNavigation.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Partials\\mainNavigation.cshtml",
+              "RelativeDocumentMoniker": "Freelancer\\Views\\Partials\\mainNavigation.cshtml",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Partials\\mainNavigation.cshtml",
+              "RelativeToolTip": "Freelancer\\Views\\Partials\\mainNavigation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T19:03:24.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Partials\\footer.cshtml",
+              "RelativeDocumentMoniker": "Freelancer\\Views\\Partials\\footer.cshtml",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Partials\\footer.cshtml",
+              "RelativeToolTip": "Freelancer\\Views\\Partials\\footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T21:48:19.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "socialLinks.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Partials\\blockgrid\\Components\\socialLinks.cshtml",
+              "RelativeDocumentMoniker": "Freelancer\\Views\\Partials\\blockgrid\\Components\\socialLinks.cshtml",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Partials\\blockgrid\\Components\\socialLinks.cshtml",
+              "RelativeToolTip": "Freelancer\\Views\\Partials\\blockgrid\\Components\\socialLinks.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T22:05:19.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "imageLinks.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Partials\\blockgrid\\Components\\imageLinks.cshtml",
+              "RelativeDocumentMoniker": "Freelancer\\Views\\Partials\\blockgrid\\Components\\imageLinks.cshtml",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Partials\\blockgrid\\Components\\imageLinks.cshtml",
+              "RelativeToolTip": "Freelancer\\Views\\Partials\\blockgrid\\Components\\imageLinks.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T19:06:23.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "callToAction.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Partials\\blockgrid\\Components\\callToAction.cshtml",
+              "RelativeDocumentMoniker": "Freelancer\\Views\\Partials\\blockgrid\\Components\\callToAction.cshtml",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Partials\\blockgrid\\Components\\callToAction.cshtml",
+              "RelativeToolTip": "Freelancer\\Views\\Partials\\blockgrid\\Components\\callToAction.cshtml",
+              "ViewState": "AgIAADgAAAAAAAAAAAAuwEMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T19:06:21.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "imageLink.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Partials\\blockgrid\\Components\\imageLink.cshtml",
+              "RelativeDocumentMoniker": "Freelancer\\Views\\Partials\\blockgrid\\Components\\imageLink.cshtml",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Partials\\blockgrid\\Components\\imageLink.cshtml",
+              "RelativeToolTip": "Freelancer\\Views\\Partials\\blockgrid\\Components\\imageLink.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T19:06:16.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "header.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Partials\\header.cshtml",
+              "RelativeDocumentMoniker": "Freelancer\\Views\\Partials\\header.cshtml",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Partials\\header.cshtml",
+              "RelativeToolTip": "Freelancer\\Views\\Partials\\header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T19:04:33.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Main.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Main.cshtml",
+              "RelativeDocumentMoniker": "Freelancer\\Views\\Main.cshtml",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Main.cshtml",
+              "RelativeToolTip": "Freelancer\\Views\\Main.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T19:05:57.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomePage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\HomePage.cshtml",
+              "RelativeDocumentMoniker": "Freelancer\\Views\\HomePage.cshtml",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\HomePage.cshtml",
+              "RelativeToolTip": "Freelancer\\Views\\HomePage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T19:03:15.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Program.cs",
+              "RelativeDocumentMoniker": "Freelancer\\Program.cs",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Program.cs",
+              "RelativeToolTip": "Freelancer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T19:53:46.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "richText.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Partials\\blockgrid\\Components\\richText.cshtml",
+              "RelativeDocumentMoniker": "Freelancer\\Views\\Partials\\blockgrid\\Components\\richText.cshtml",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Partials\\blockgrid\\Components\\richText.cshtml",
+              "RelativeToolTip": "Freelancer\\Views\\Partials\\blockgrid\\Components\\richText.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T19:06:32.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "title.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Partials\\blockgrid\\Components\\title.cshtml",
+              "RelativeDocumentMoniker": "Freelancer\\Views\\Partials\\blockgrid\\Components\\title.cshtml",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Partials\\blockgrid\\Components\\title.cshtml",
+              "RelativeToolTip": "Freelancer\\Views\\Partials\\blockgrid\\Components\\title.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T19:06:12.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Freelancer\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Freelancer\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T19:06:02.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ContentPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\ContentPage.cshtml",
+              "RelativeDocumentMoniker": "Freelancer\\Views\\ContentPage.cshtml",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\ContentPage.cshtml",
+              "RelativeToolTip": "Freelancer\\Views\\ContentPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T19:06:00.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SearchService.cs",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Services\\SearchService.cs",
+              "RelativeDocumentMoniker": "Freelancer\\Services\\SearchService.cs",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Services\\SearchService.cs",
+              "RelativeToolTip": "Freelancer\\Services\\SearchService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwD0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:55:30.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "metaData.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Partials\\metaData.cshtml",
+              "RelativeDocumentMoniker": "Freelancer\\Views\\Partials\\metaData.cshtml",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Partials\\metaData.cshtml",
+              "RelativeToolTip": "Freelancer\\Views\\Partials\\metaData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T19:04:31.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Partials\\contact.cshtml",
+              "RelativeDocumentMoniker": "Freelancer\\Views\\Partials\\contact.cshtml",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Partials\\contact.cshtml",
+              "RelativeToolTip": "Freelancer\\Views\\Partials\\contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T19:04:35.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "modals.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Partials\\modals.cshtml",
+              "RelativeDocumentMoniker": "Freelancer\\Views\\Partials\\modals.cshtml",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Partials\\modals.cshtml",
+              "RelativeToolTip": "Freelancer\\Views\\Partials\\modals.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T19:04:29.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "portfolio.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Partials\\portfolio.cshtml",
+              "RelativeDocumentMoniker": "Freelancer\\Views\\Partials\\portfolio.cshtml",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Partials\\portfolio.cshtml",
+              "RelativeToolTip": "Freelancer\\Views\\Partials\\portfolio.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T19:04:13.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\appsettings.json",
+              "RelativeDocumentMoniker": "Freelancer\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\appsettings.json",
+              "RelativeToolTip": "Freelancer\\appsettings.json",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-18T15:07:34.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PaginationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Helpers\\PaginationHelper.cs",
+              "RelativeDocumentMoniker": "Freelancer\\Helpers\\PaginationHelper.cs",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Helpers\\PaginationHelper.cs",
+              "RelativeToolTip": "Freelancer\\Helpers\\PaginationHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:56:03.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Shared\\Components\\Pagination\\Default.cshtml",
+              "RelativeDocumentMoniker": "Freelancer\\Views\\Shared\\Components\\Pagination\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Shared\\Components\\Pagination\\Default.cshtml",
+              "RelativeToolTip": "Freelancer\\Views\\Shared\\Components\\Pagination\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T14:51:11.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SearchPageController.cs",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Controllers\\Render\\SearchPageController.cs",
+              "RelativeDocumentMoniker": "Freelancer\\Controllers\\Render\\SearchPageController.cs",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Controllers\\Render\\SearchPageController.cs",
+              "RelativeToolTip": "Freelancer\\Controllers\\Render\\SearchPageController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:09:40.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SearchPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\SearchPage.cshtml",
+              "RelativeDocumentMoniker": "Freelancer\\Views\\SearchPage.cshtml",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\SearchPage.cshtml",
+              "RelativeToolTip": "Freelancer\\Views\\SearchPage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T12:25:46.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FreelancerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Configuration\\FreelancerConfig.cs",
+              "RelativeDocumentMoniker": "Freelancer\\Configuration\\FreelancerConfig.cs",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Configuration\\FreelancerConfig.cs",
+              "RelativeToolTip": "Freelancer\\Configuration\\FreelancerConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:08:08.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Constants.cs",
+              "RelativeDocumentMoniker": "Freelancer\\Constants.cs",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Constants.cs",
+              "RelativeToolTip": "Freelancer\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:38:12.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PaginationViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Components\\PaginationViewComponent.cs",
+              "RelativeDocumentMoniker": "Freelancer\\Components\\PaginationViewComponent.cs",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Components\\PaginationViewComponent.cs",
+              "RelativeToolTip": "Freelancer\\Components\\PaginationViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:47:28.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SearchFormViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Components\\SearchFormViewComponent.cs",
+              "RelativeDocumentMoniker": "Freelancer\\Components\\SearchFormViewComponent.cs",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Components\\SearchFormViewComponent.cs",
+              "RelativeToolTip": "Freelancer\\Components\\SearchFormViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:19:54.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SearchRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Models\\Search\\SearchRequestModel.cs",
+              "RelativeDocumentMoniker": "Freelancer\\Models\\Search\\SearchRequestModel.cs",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Models\\Search\\SearchRequestModel.cs",
+              "RelativeToolTip": "Freelancer\\Models\\Search\\SearchRequestModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:10:28.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PublishedContentExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Extensions\\PublishedContentExtensions.cs",
+              "RelativeDocumentMoniker": "Freelancer\\Extensions\\PublishedContentExtensions.cs",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Extensions\\PublishedContentExtensions.cs",
+              "RelativeToolTip": "Freelancer\\Extensions\\PublishedContentExtensions.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T14:04:36.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IndexComposer.cs",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Composers\\IndexComposer.cs",
+              "RelativeDocumentMoniker": "Freelancer\\Composers\\IndexComposer.cs",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Composers\\IndexComposer.cs",
+              "RelativeToolTip": "Freelancer\\Composers\\IndexComposer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:56:44.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Shared\\Components\\SearchForm\\Default.cshtml",
+              "RelativeDocumentMoniker": "Freelancer\\Views\\Shared\\Components\\SearchForm\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Views\\Shared\\Components\\SearchForm\\Default.cshtml",
+              "RelativeToolTip": "Freelancer\\Views\\Shared\\Components\\SearchForm\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T12:20:57.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "Freelancer\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\GlobalUsings.cs",
+              "RelativeToolTip": "Freelancer\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:22:33.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IndexComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Search\\IndexComponent.cs",
+              "RelativeDocumentMoniker": "Freelancer\\Search\\IndexComponent.cs",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Search\\IndexComponent.cs",
+              "RelativeToolTip": "Freelancer\\Search\\IndexComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:18:04.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RegisterNotificationsComposer.cs",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Composers\\RegisterNotificationsComposer.cs",
+              "RelativeDocumentMoniker": "Freelancer\\Composers\\RegisterNotificationsComposer.cs",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Composers\\RegisterNotificationsComposer.cs",
+              "RelativeToolTip": "Freelancer\\Composers\\RegisterNotificationsComposer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T13:05:12.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ContentSavingNotificationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Notifications\\ContentSavingNotificationHandler.cs",
+              "RelativeDocumentMoniker": "Freelancer\\Notifications\\ContentSavingNotificationHandler.cs",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Notifications\\ContentSavingNotificationHandler.cs",
+              "RelativeToolTip": "Freelancer\\Notifications\\ContentSavingNotificationHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:53:56.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SearchResultsViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Components\\SearchResultsViewComponent.cs",
+              "RelativeDocumentMoniker": "Freelancer\\Components\\SearchResultsViewComponent.cs",
+              "ToolTip": "C:\\Users\\Jonte\\GitHub\\Umbraco13\\Freelancer\\Components\\SearchResultsViewComponent.cs",
+              "RelativeToolTip": "Freelancer\\Components\\SearchResultsViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:28:24.763Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

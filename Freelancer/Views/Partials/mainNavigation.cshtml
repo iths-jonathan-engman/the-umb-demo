@@ -1,0 +1,23 @@
+﻿@inherits UmbracoViewPage
+
+@{
+    var siteSettings = Model.GetSiteSettings();
+    if (siteSettings is null) return;
+}
+
+<nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
+    <div class="container">
+        <a class="btn btn-xl p-0" href="/" title="@siteSettings.SiteName">
+            <our-svg media-item="siteSettings.SiteIcon" class=""></our-svg>
+        </a>
+        <button class="navbar-toggler text-uppercase font-weight-bold bg-primary text-white" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            @Umbraco?.GetDictionaryValueOrDefault("Menu", "Menu fallback")
+            <i class="fas fa-bars"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ms-auto">
+                @await Html.GetBlockGridHtmlAsync(siteSettings, "mainNavigation")
+            </ul>
+        </div>
+    </div>
+</nav>
